@@ -31,7 +31,15 @@ A 3D learning demonstration illustrating hydraulic cylinder operation, including
 A 3D animation demonstrating the positioning and operation of a mining drilling boom, including movement, extension, drilling, and withdrawal.
 
 **Tools:** Blender
+### 5. Hybrid Resilience Initiative
 
+A scenario-based eLearning course designed to help managers reduce digital overload in hybrid teams. The course explores how unclear communication, unnecessary urgency, and poorly timed messages affect employees, helping learners make better communication decisions in realistic workplace situations.
+
+**Tools:** Articulate Rise 360
+
+**Learning approach:** Scenario-based learning, decision-making activities, and reflection.
+
+**Format:** Interactive eLearning course, exported as SCORM for LMS delivery.
 ## Instructional Design Skills
 
 - Learning needs analysis
