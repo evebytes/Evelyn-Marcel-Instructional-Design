@@ -15,6 +15,8 @@ An interactive workplace learning course designed to help employees communicate 
 
 **Learning approach:** Workplace scenarios, interactive activities, and knowledge checks.
 
+**View course:** [Launch Giving Constructive Feedback at Work](https://evebytes.github.io/giving-constructive-feedback/)
+
 ### 2. EV High Voltage Diagnostic Communication
 An instructor led training guide designed to help learners understand and communicate technical diagnostic information.
 
@@ -44,6 +46,8 @@ A scenario-based eLearning course designed to help managers reduce digital overl
 **Tools:** Articulate Rise 360
 
 **Learning approach:** Scenario-based learning, decision-making activities, and reflection.
+
+**View course:** [Launch Hybrid Resilience Initiative](https://evebytes.github.io/hybrid-resilience-initiative/)
 
 **Format:** Interactive eLearning course, exported as SCORM for LMS delivery.
 ## Instructional Design Skills
