@@ -22,15 +22,21 @@ An instructor led training guide designed to help learners understand and commun
 
 **Learning approach:** Learning objectives, practical scenarios, facilitator guidance, knowledge checks, and reflection activities.
 
+**View instructor guide:** [Open PDF](https://drive.google.com/drive/folders/1SzrMy5zzIOt9UXJmQdlehAFaqTWnpgrg?usp=sharing)
+
 ### 3. Hydraulic Cylinder Animation
 A 3D learning demonstration illustrating hydraulic cylinder operation, including piston movement, extension, and retraction.
 
 **Tools:** Blender
 
+**Watch animation:** [View Hydraulic Cylinder Animation]((https://drive.google.com/file/d/15gLp1IGOpDxG5dc5VhYjVvxQ9MXGQuHe/view?usp=drive_link))
+
 ### 4. Mining Boom Drilling Animation
 A 3D animation demonstrating the positioning and operation of a mining drilling boom, including movement, extension, drilling, and withdrawal.
 
 **Tools:** Blender
+
+**Watch animation:** [View Mining Boom Drilling Animation](https://drive.google.com/file/d/11b0CRrJT6HlqHSFeau7ZzZdrYjsil2Oa/view?usp=drive_link))
 ### 5. Hybrid Resilience Initiative
 
 A scenario-based eLearning course designed to help managers reduce digital overload in hybrid teams. The course explores how unclear communication, unnecessary urgency, and poorly timed messages affect employees, helping learners make better communication decisions in realistic workplace situations.
